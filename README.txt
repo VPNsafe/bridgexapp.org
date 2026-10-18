@@ -6,7 +6,7 @@ Hosting: GitHub Pages, branch main, repository root.
 
 English is the default language. Russian, Simplified Chinese, Spanish and Hindi
 are available under /ru/, /zh-Hans/, /es/ and /hi/. Each language has a home,
-support, privacy and Mac-download page. Pages work without JavaScript, remote
+support, privacy, Mac-download and update-history page. Pages work without JavaScript, remote
 fonts or analytics. Native details elements handle the language menu and FAQ.
 
 This repository contains only the generated public website. The application
@@ -14,8 +14,8 @@ source, signing material, App Store review contact phone and private release
 configuration are not published here. Canonical links and sitemap use the
 production domain. CNAME and .nojekyll configure GitHub Pages.
 
-The iPhone app and public Mac download are marked as preparing for release
-until their distribution steps are complete. No unnotarized Mac build is linked.
+The update history labels public downloads, testing and prepared builds separately.
+The iPhone submission awaits Apple review; notarized Mac downloads are available.
 Support: support@techdatacloud.org.
 
 DNS for bridgexapp.org (name.com):
